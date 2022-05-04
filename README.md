@@ -25,7 +25,7 @@ npm install
 # Usage
 To start app run:
 ```
-npm 
+npm run electron:serve
 ```
 # Task list
 - [x] Make window open and close.
