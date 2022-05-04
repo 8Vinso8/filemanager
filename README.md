@@ -1,5 +1,5 @@
 # filemanager
-File manager using electron and node
+File manager using [Electron](https://github.com/electron/electron) and [Vue.js](https://github.com/vuejs/vue)
 
 # Sections
 - [Installation](#installation)
@@ -25,12 +25,15 @@ npm install
 # Usage
 To start app run:
 ```
-npm start
+npm 
 ```
 # Task list
 - [x] Make window open and close.
-- [ ] Basic file explorer
+- [x] Basic file explorer
 - [ ] Basic file manager
 - [ ] Drag and drop
 
 # Enjoy!
+![](https://user-images.githubusercontent.com/44764023/166714330-b55bd381-4ec8-44fd-b9b1-5ea6dcac06d1.jpg)
+
+
