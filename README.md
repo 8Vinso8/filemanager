@@ -21,5 +21,10 @@ To start app run:
 ```
 npm start
 ```
+# Task list
+- [x] Make window open and close.
+- [ ] Basic file explorer
+- [ ] Basic file manager
+- [ ] Drag and drop
 
 # Enjoy!
