@@ -1,6 +1,12 @@
 # filemanager
 File manager using electron and node
 
+# Sections
+- [Installation](#installation)
+- [Usage](#usage)
+- [Task list](#task-list)
+- [Enjoy](#enjoy)
+
 # Installation
 Before you begin, make sure that [Node.js](https://nodejs.org/en/download/) is installed.
 To make sure that it is installed correctly run:
